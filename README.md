@@ -76,10 +76,30 @@ Business Insights → Financial Decision Making
 
 ## 📸 Screenshots
 
-<!-- Add your screenshots below - they are in the /screenshots folder -->
-<!-- To embed: ![Description](screenshots/your-image-name.png) -->
+### 🏠 SAP Platform Setup
+![SAP Analytics Cloud Home Interface](screenshots/SAP%20Analytics%20Cloud%20Home%20Interface.png)
+![SAP Datasphere Home Screen](screenshots/SAP%20Datasphere%20Home%20Screen.png)
+![SAP Business Data Cloud Architecture](screenshots/SAP%20Business%20Data%20Cloud%20Architecture.png)
+![SAP Databricks Catalog](screenshots/SAP%20Databricks%20Catalog.png)
 
-> 📁 See the [`/screenshots`](./screenshots) folder for dashboard and cluster visualizations.
+### 🔗 Data Integration & Modeling
+![Import Entities Screen in SAP Datasphere](screenshots/Import%20Entities%20Screen%20in%20SAP%20Datasphere.png)
+![Data Builder Join Node in SAP Datasphere](screenshots/Data%20Builder%20Join%20Node%20in%20SAP%20Datasphere.png)
+![Company Code Clustering Data Product in SAP Datasphere](screenshots/Company%20Code%20Clustering%20Data%20Product%20in%20SAP%20Datasphere.png)
+
+### 🤖 Clustering in Databricks
+![Company Code Tables in Databricks](screenshots/Company%20Code%20Tables%20in%20Databricks.png)
+![Configuring Scatterplot using TSNE X and TSNE Y](screenshots/Configuring%20Scatterplot%20using%20TSNE%20X%20and%20TSNE%20Y.png)
+
+### 📊 Dashboard & Visualization
+![Opening Working Capital Story in Edit Mode](screenshots/Opening%20Working%20Capital%20Story%20in%20Edit%20Mode.png)
+![Editing and Customizing the Working Capital Dashboard](screenshots/Editing%20and%20Customizing%20the%20Working%20Capital%20Dashboard.png)
+![Selecting Scatterplot Visualization in SAP Analytics Cloud](screenshots/Selecting%20Scatterplot%20Visualization%20in%20SAP%20Analytics%20Cloud.png)
+![Accessing Intelligent Applications in SAP Analytics Cloud](screenshots/Accessing%20Intelligent%20Applications%20in%20SAP%20Analytics%20Cloud.png)
+![Intelligent Applications in SAP Analytics Cloud](screenshots/Intelligent%20Applications%20in%20SAP%20Analytics%20Cloud.png)
+
+### ✅ Final Output
+![Final Dashboard Showing Working Capital Analysis and Company Code Clustering](screenshots/Final%20Dashboard%20Showing%20Working%20Capital%20Analysis%20and%20Compan....png)
 
 ---
 
