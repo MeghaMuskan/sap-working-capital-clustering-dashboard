@@ -99,7 +99,7 @@ Business Insights → Financial Decision Making
 ![Intelligent Applications in SAP Analytics Cloud](screenshots/Intelligent%20Applications%20in%20SAP%20Analytics%20Cloud.png)
 
 ### ✅ Final Output
-![Final Dashboard Showing Working Capital Analysis and Company Code Clustering](screenshots/Final%20Dashboard%20Showing%20Working%20Capital%20Analysis%20and%20Compan....png)
+![Final Dashboard Showing Working Capital Analysis and Company Code Clustering](https://github.com/MeghaMuskan/sap-working-capital-clustering-dashboard/blob/main/screenshots/Final%20Dashboard%20Showing%20Working%20Capital%20Analysis%20and%20Company%20Code%20Clustering.png)
 
 ---
 
