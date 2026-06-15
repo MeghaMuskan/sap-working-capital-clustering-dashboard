@@ -135,7 +135,7 @@ sap-working-capital-clustering-dashboard/
 
 **Megha Muskan**  
 🎓 B.Tech Computer Science, KIIT University (2023–2027)  
-💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)  
+💼 [LinkedIn](https://www.linkedin.com/in/megha-muskan-a827552a6/)  
 🐙 [GitHub](https://github.com/MeghaMuskan)
 
 ---
